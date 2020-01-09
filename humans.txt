@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+	Json Tayløor 	@jason@git-trainign
 
 # THANKS
 
