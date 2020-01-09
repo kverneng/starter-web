@@ -11,4 +11,4 @@ This is asimple web project
 Please fork this repository
 ##Copyright
 
-2014.hHHh
+2014.git.Traning. All hihi
