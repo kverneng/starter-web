@@ -7,7 +7,7 @@ as stated above, the main purpose is to provide simple examples for Git training
 ## Deployment
 This is asimple web project
 ## How To Contribute
-
+Please fork this repository
 ##Copyright
 
 2014.hHHh
